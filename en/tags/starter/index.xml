@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>starter on Martin cooks</title>
+    <link>http://192.168.2.92/en/tags/starter/</link>
+    <description>Recent content in starter on Martin cooks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>Martin kocht © {year}</copyright>
+    <lastBuildDate>Fri, 27 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://192.168.2.92/en/tags/starter/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Basic mix for a tartar</title>
+      <link>http://192.168.2.92/en/rezepte/tartar-basic-mix/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.92/en/rezepte/tartar-basic-mix/</guid>
+      <description>Profile This is my basic mix for a tartar. You can vary it quite a bit. For example, a few drops of sesame oil and sesame seeds. Sprinkle chilli, parsley, etc. No matter how you change it, the basic recipe is a good basis.
+Ingredients  500g tatar (a good steak, not too fat is perfect) 2 eggs 1 onion 4 anchovy fillets Capers 1 tablespoon soy sauce 1 tablespoon sweet-sour sauce 2 tsp ketchup Breadcrumbs  Let&amp;rsquo;s go Even if only 1 egg is to be seen here, you need 2 eggs for 500g tartar.</description>
+    </item>
+    
+    <item>
+      <title>Corn salad with chicken liver in balsamico</title>
+      <link>http://192.168.2.92/en/rezepte/corn-salad/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.92/en/rezepte/corn-salad/</guid>
+      <description>Profile This is one of my self invented recipes. Many people don’t like liver, but for those who like it it’s a nice alternative to the usual preparation.
+You can use the same sauce (a glass of each balsamico, red wine and water) also for steaks. Refer to this recipe: Steaks with mushrooms in balsamico.
+Ingredients  Chicken liver (or if you can’t get it, turkey liver), 200g per person 1-2 onions sliced in rings Garlic Flour Half a glass of balsamico 1 -1,5 teaspoon of sugar Olive oil Baguette  Let&amp;rsquo;s go Prepare the corn salad using your preferred dressing.</description>
+    </item>
+    
+  </channel>
+</rss>

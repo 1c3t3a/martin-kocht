@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wild on Martin kocht</title>
+    <link>http://192.168.2.92/tags/wild/</link>
+    <description>Recent content in wild on Martin kocht</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>Martin kocht © {year}</copyright>
+    <lastBuildDate>Fri, 27 Jan 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://192.168.2.92/tags/wild/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Rehrücken</title>
+      <link>http://192.168.2.92/rezepte/rehr%C3%BCcken/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.92/rezepte/rehr%C3%BCcken/</guid>
+      <description>Steckbrief Ein traditionelles Weihnachtsessen. Etwas aufwendig und von daher sollte man genug Zeit einplanen. Das Reh wird bei Niedrigtemperatur gemacht. Man sollte vorher seinen Herd überprüfen ob er die Temperatur konstant halten kann und wie die Einstellung für genau 80° ist. Ein zu hohe oder niedrige Temperatur wäre hierbei fatal.
+Zutaten Für den Braten  1 Rehrücken und falls das zu wenig ist noch eine Oberkeule Ein Zweig Rosmarin und Thymian  Für den Fond  Alles was vom Reh übrig bleibt.</description>
+    </item>
+    
+  </channel>
+</rss>

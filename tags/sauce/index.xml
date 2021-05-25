@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sauce on Martin kocht</title>
+    <link>http://192.168.2.92/tags/sauce/</link>
+    <description>Recent content in sauce on Martin kocht</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>Martin kocht © {year}</copyright>
+    <lastBuildDate>Sun, 26 Feb 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://192.168.2.92/tags/sauce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Thai Sauce</title>
+      <link>http://192.168.2.92/rezepte/thai-sauce/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.92/rezepte/thai-sauce/</guid>
+      <description>Steckbrief Diese Sauce passt hervorragend zu jedem Curry. Einfach etwas der Sauce über das Curry geben, aber Achtung, sie ist scharf. Auch zu Gemüse aus dem Ofen schmeckt sie sehr gut. Sie ist sehr leicht zu machen und gelingt immer.
+Zutaten  1 Bund Koriander 1 Stück Ingwer 2-5 Chili wie man es mag 2-3 Knoblauchzehen 2 EL Fischsoße 2 EL Sojasoße 2 EL süßsaure Soße  Los geht’s Die Zutaten:</description>
+    </item>
+    
+  </channel>
+</rss>

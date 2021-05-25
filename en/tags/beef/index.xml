@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>beef on Martin cooks</title>
+    <link>http://192.168.2.92/en/tags/beef/</link>
+    <description>Recent content in beef on Martin cooks</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>Martin kocht © {year}</copyright>
+    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://192.168.2.92/en/tags/beef/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Shashlik (shish kebab)</title>
+      <link>http://192.168.2.92/en/rezepte/shashlik/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.92/en/rezepte/shashlik/</guid>
+      <description>Profile This is a completely unhealthy dish. Except onions there are no vegetables, just pure meat in a sauce. Typical man food that my mom made sometimes on Saturday evenings when I was a small boy. As I like it so much I started preparing this and modified it a bit. Here is my version of the Hungarian dish.
+The original recipe uses different innards such as liver and kidney but I prefer it best with beef.</description>
+    </item>
+    
+    <item>
+      <title>The best Spaghetti Bolognese</title>
+      <link>http://192.168.2.92/en/rezepte/spaghetti-bolognese/</link>
+      <pubDate>Sun, 12 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.92/en/rezepte/spaghetti-bolognese/</guid>
+      <description>Profile We all know the things we liked at home as kids and that we still love today. These Spaghetti are such a recipe that I still cook frequently and that we all love a lot. If it is too much you can keep the sauce for the next day and warm it up without loosing the great taste. You may also keep it in the freezer for some time.</description>
+    </item>
+    
+    <item>
+      <title>Basic mix for a tartar</title>
+      <link>http://192.168.2.92/en/rezepte/tartar-basic-mix/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.92/en/rezepte/tartar-basic-mix/</guid>
+      <description>Profile This is my basic mix for a tartar. You can vary it quite a bit. For example, a few drops of sesame oil and sesame seeds. Sprinkle chilli, parsley, etc. No matter how you change it, the basic recipe is a good basis.
+Ingredients  500g tatar (a good steak, not too fat is perfect) 2 eggs 1 onion 4 anchovy fillets Capers 1 tablespoon soy sauce 1 tablespoon sweet-sour sauce 2 tsp ketchup Breadcrumbs  Let&amp;rsquo;s go Even if only 1 egg is to be seen here, you need 2 eggs for 500g tartar.</description>
+    </item>
+    
+    <item>
+      <title>Roulade</title>
+      <link>http://192.168.2.92/en/rezepte/roulade/</link>
+      <pubDate>Fri, 27 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.92/en/rezepte/roulade/</guid>
+      <description>Profile Like some dishes, roulades are best prepared the day before and warmed up the next day. It is also important that you have kitchen yarn to wrap the roulades, brackets do not hold this variant together. This is a slightly variated version of the traditional German roulade. If you prefer the original one just remove the paprika and the leek.
+Ingredients  Roulades 1 slice of bacon per roulade 1 garden leek 1 paprika Pickled gherkins hot and mild mustard 2 onions Tomato paste Beef broth  Let&amp;rsquo;s go We need of course the roulade and best of all some more for the next day.</description>
+    </item>
+    
+    <item>
+      <title>Steaks with mushrooms in balsamico with gnocchi</title>
+      <link>http://192.168.2.92/en/rezepte/steaks-with-mushrooms/</link>
+      <pubDate>Wed, 25 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.92/en/rezepte/steaks-with-mushrooms/</guid>
+      <description>Profile The quality of the steaks are the most important ingredient in this recipe. It’s best to cut them freshly from a whole Roastbeef and to cook them not too cold but at room temperature. The sauce can be used for other dishes such as the chicken liver salad given here Salad with chicken liver.
+You can use the same sauce for a nice salad such as this one: Corn salad with chicken liver in balsamico.</description>
+    </item>
+    
+  </channel>
+</rss>

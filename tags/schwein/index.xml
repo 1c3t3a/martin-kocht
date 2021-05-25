@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>schwein on Martin kocht</title>
+    <link>http://192.168.2.92/tags/schwein/</link>
+    <description>Recent content in schwein on Martin kocht</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>Martin kocht © {year}</copyright>
+    <lastBuildDate>Fri, 14 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://192.168.2.92/tags/schwein/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Kasseler</title>
+      <link>http://192.168.2.92/rezepte/kasseler/</link>
+      <pubDate>Fri, 14 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.92/rezepte/kasseler/</guid>
+      <description>Steckbrief Dieses Rezept ist das Einzige, das ohne jede Würzung auskommt. Es funktioniert immer, ist leicht zuzubereiten und ein traditionelles Winteressen. Wichtig ist es, einen guten Braten zu bekommen. Beim Metzger Salzberger  bekommt man das richtige Stück in einer guten Qualität. Freitags ist er auf dem Markt in Gröbenzell.
+embed google map.mapouter{position:relative;text-align:right;height:500px;width:600px;}.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;} Bei der Zubereitung ist es wichtig nicht nervös zu werden wenn eine ganze Dosenmilch in die heiße Pfanne kommt.</description>
+    </item>
+    
+    <item>
+      <title>Gefülltes Schweinefilet mit Gnocchi und Blumenkohl</title>
+      <link>http://192.168.2.92/rezepte/gef%C3%BClltes-schweinefilet/</link>
+      <pubDate>Thu, 26 Jan 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.92/rezepte/gef%C3%BClltes-schweinefilet/</guid>
+      <description>Steckbrief Dies ist ein ziemlich aufwendiges Rezept aus einem Buch, aber man wird für die Mühen belohnt, es ist fantastisch. Natürlich kann man sich auch eine Füllung sparen, aber beim ersten mal könnte man beide ausprobieren. Wie schon andere Gerichte zuvor ist es bei Niedrigtemperatur gemacht. An dieser Stelle sei noch auf die Kategorien hingewiesen. So könnt ihr schnell alle Niedrigtemperatur Rezepte finden.
+Zutaten Für die erste Füllung  1 Paprika 1 Bund Thymian 1 Handvoll Walnüsse  Für die zweite Füllung  Getrocknete Tomaten in Öl 1-2 Zweige Rosmarin 1 Handvoll Pinienkerne  Zum Anbraten und für die Sauce  1 TL Zucker 30g Butter 1 Tetrapack passierte Tomaten 100ml Gemüsebrühe  Los geht’s Die Zutaten für die erste Füllung.</description>
+    </item>
+    
+  </channel>
+</rss>

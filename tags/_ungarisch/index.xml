@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_ungarisch on Martin kocht</title>
+    <link>http://192.168.2.92/tags/_ungarisch/</link>
+    <description>Recent content in _ungarisch on Martin kocht</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>Martin kocht © {year}</copyright>
+    <lastBuildDate>Wed, 20 Dec 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://192.168.2.92/tags/_ungarisch/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Schaschlik</title>
+      <link>http://192.168.2.92/rezepte/schaschlik/</link>
+      <pubDate>Wed, 20 Dec 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.92/rezepte/schaschlik/</guid>
+      <description>Steckbrief Manche mögen geschockt sein ein solches Rezept hier zu finden. Schaschlik ist ein echtes Männer-Essen, viel Fleisch und Soße, nichts belastendes Gesundes :-). Als Kind freute ich mich immer wenn es Samstags ein Schaschlik gab. Irgendwann fing ich an es nach zu kochen und so kommt hier das Rezept.
+Im Original kommt einiges an Innereien dazu. Privat mag ich es am liebsten mit Rindfleisch. Aber auch Schweinefleisch schmeckt super. Ganz wichtig ist die Soße.</description>
+    </item>
+    
+  </channel>
+</rss>

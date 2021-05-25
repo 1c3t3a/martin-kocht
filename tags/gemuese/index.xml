@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>gemuese on Martin kocht</title>
+    <link>http://192.168.2.92/tags/gemuese/</link>
+    <description>Recent content in gemuese on Martin kocht</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-en</language>
+    <copyright>Martin kocht © {year}</copyright>
+    <lastBuildDate>Sun, 16 Apr 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://192.168.2.92/tags/gemuese/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Asiatischer Spargel</title>
+      <link>http://192.168.2.92/rezepte/asiatischer-spargel/</link>
+      <pubDate>Sun, 16 Apr 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.92/rezepte/asiatischer-spargel/</guid>
+      <description>Steckbrief Dies ist eine gute Abwechslung zum traditionellen Deutschem Spargel. In Deutschland wird typischerweise weißer Spargel gegessen, während er anderswo eher als grüner Spargel daher kommt. Er wird gebraten und gibt mit dem scharfen Chili und dem Sesamöl eine herrliche Kombination. Wer keinen grünen Spargel mag oder weißen nicht bekommen kann nimmt eben den jeweils anderen.
+Guten Spargel gibt es auf dem Wochenmarkt in Gröbenzell. Immer Freitags Morgens.
+embed google map.</description>
+    </item>
+    
+    <item>
+      <title>Ofen Gemüse</title>
+      <link>http://192.168.2.92/rezepte/ofen-gemuese/</link>
+      <pubDate>Sun, 26 Feb 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://192.168.2.92/rezepte/ofen-gemuese/</guid>
+      <description>Steckbrief Dies ist ein simples Rezept für ein Gemüse aus dem Ofen. Es geht schnell und man kann es nach belieben mit unterschiedlichen Gemüse variieren. Zucchini und Auberginen gehen genauso und dazu passt ein gutes Curry mit dieser Thai Sauce zum verfeinern.
+Zutaten  2 Paprika 1 Zwiebel 2 Stangen Lauch 2 Stangen Frühlingszwiebeln 500g Champignons 2 EL Olivenöl Kräuter der Provence (Rosmarin, Thymian und Bohnenkraut) Salz  Los geht’s Die Zutaten:</description>
+    </item>
+    
+  </channel>
+</rss>
